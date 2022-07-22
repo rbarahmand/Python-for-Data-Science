@@ -12,16 +12,9 @@ Stay tuned for my other series of notebooks! 😍.
 
 ### Python Basics
 
-- Python built-in Data Structures, Functions, Managing Files
-
-## Authors
-
-Reza Barahmand\
-@rbarahmand
-
-## License
-
-This project is licensed under **MIT License**
+- [Jupyter notebook, arithmetic in python and, built-in functions]()
+  
+- [Python built-in Data Structures, Functions, Managing Files](https://nbviewer.org/github/rbarahmand/python-for-data-science/blob/master/python-basics/01%20-%20Python%20built-in%20Data%20Structures%2C%20Functions%2C%20Managing%20Files.ipynb)
 
 ## Acknowledgments
 
